@@ -1,65 +1,212 @@
-# Hi there 👋
+# Hi, I'm Ernesto Ferrer 👋
 
-I'm a **Computer Science Graduate** passionate about building full-stack web applications and solving real-world problems through code. Welcome to my GitHub profile—here you'll find projects that showcase my skills and commitment to quality software development. 🚀
+### Entry-Level Software Developer | C#/.NET Backend & Angular Full Stack
 
-## 🎓 About Me
+I'm a **Computer Science graduate from the University of South Florida** focused on backend and full-stack software development.
 
-Recent Computer Science graduate with a strong foundation in full-stack web development and cloud technologies. I'm eager to launch my career as a software developer, bringing expertise in modern frameworks, databases, and cloud services. I'm actively seeking my first professional role where I can apply my technical skills and continue growing as a developer.
+My primary focus is **C#/.NET backend development**, with hands-on experience building applications using **ASP.NET Core Web API, Entity Framework Core, SQL Server, LINQ, REST APIs, and dependency injection**. I also have experience developing **Angular frontends** and integrating them with ASP.NET Core APIs.
 
-## 💼 Technical Skills
-
-- **Languages**: C#, Python, C, C++, SQL
-- **Backend**: .NET Framework, Flask, RESTful APIs
-- **Frontend**: Full Stack Web Development
-- **Databases**: SQL, PostgreSQL
-- **Cloud & DevOps**: Azure Cloud Services
-- **Tools & Technologies**: Git, Visual Studio, VS Code, Azure DevOps
-- **Soft Skills**: Problem-solving, Communication, Teamwork, Adaptability
-
-## 🌟 Featured Projects
-
-### 🎬 Movie Platform
-A full-stack web application for discovering, browsing, and managing movies.
-- **Tech Stack**:Python, Flask, SQL, PostgreSQL, Javascript, Bootstrap
-- **Features**: User authentication, movie database, ratings & reviews, search functionality
-- **Key Learnings**: Full-stack architecture, database design
-
-### 📈 Stock Analysis Tool
-A comprehensive tool for analyzing stock market data and generating insights.
-- **Tech Stack**: C#, .NET, Windows Form Applicaton
-- **Features**: Stock data, technical analysis, data visualization
-
-## 🎯 Current Focus
-
-- 🔍 **Actively seeking entry-level software developer positions**
-- 💻 Building production-ready full-stack applications
-- ☁️ Expanding cloud deployment expertise with Azure
-- 🤝 Open to mentorship and collaborative learning
-- 📚 Continuously improving code quality and best practices
-
-## 🤝 Let's Connect!
-
-I'm excited to connect with potential employers, mentors, and fellow developers. Feel free to reach out!
-
-- **Email**: ernesto.ferrer.cs@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/ernesto-ferrer-445a16407/
-
-## 💼 What I'm Looking For
-
-✅ Entry-level Full Stack Developer positions  
-✅ Roles using C#, .NET, Python, or related technologies  
-✅ Companies with strong mentorship and learning culture  
-✅ Projects leveraging cloud services (Azure, AWS, GCP)  
-✅ Opportunities to build scalable web applications  
-
-## 🏆 Highlights
-
-- 📚 Computer Science degree with strong academic foundation
-- 💡 Proficient in multiple programming paradigms and technologies
-- 🚀 Experienced in end-to-end full-stack development
-- ☁️ Hands-on experience with cloud platforms (Azure)
-- 🎯 Passionate about clean code and best practices
+I'm currently seeking an **entry-level Backend C#/.NET Developer or Full Stack Developer** position where I can contribute to a development team, continue developing my software engineering skills, and build reliable applications that solve real-world problems.
 
 ---
 
-⭐ **Thanks for visiting!** I'm enthusiastic about my first opportunity in tech and would love to discuss how I can contribute to your team. Feel free to explore my repositories, and don't hesitate to reach out—let's connect! 🚀
+## 💻 Technical Skills
+
+### Backend
+
+- C#
+- .NET
+- ASP.NET Core Web API
+- Entity Framework Core
+- REST APIs
+- LINQ
+- Dependency Injection
+
+### Architecture & Development
+
+- Repository Pattern
+- DTOs
+- Object Mapping
+- Data Validation
+- Relational Database Design
+- CORS
+- CRUD Operations
+
+### Frontend
+
+- Angular
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- AJAX
+- Angular Components
+- Angular Services
+- HTTP Client
+
+### Databases
+
+- Microsoft SQL Server
+- PostgreSQL
+- SQLite
+- SQL
+
+### Cloud & Tools
+
+- Microsoft Azure
+- Azure Blob Storage
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
+- PowerShell
+- Postman
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 HomeCare Healthcare Management System
+
+A full-stack healthcare management system built with **C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, Angular, and Azure Blob Storage**.
+
+The project consists of three applications:
+
+- **HomeCare Backend** — ASP.NET Core Web API for managing patients, caregivers, and patient-caregiver relationships.
+- **HomeCare Frontend** — Angular application for interacting with the backend API and managing patient information.
+- **Medical Records API** — ASP.NET Core API integrated with Azure Blob Storage for medical record storage.
+
+### Key Features
+
+- Built RESTful APIs using ASP.NET Core and C#
+- Implemented patient and caregiver management
+- Designed a many-to-many patient-caregiver relationship
+- Used Entity Framework Core with SQL Server
+- Implemented Repository Pattern for data access
+- Used Dependency Injection throughout the backend
+- Created DTOs and mapping logic
+- Implemented data validation for patient information
+- Added patient search functionality using LINQ and EF Core
+- Built Angular components and services
+- Connected Angular to the ASP.NET Core API using HTTP requests
+- Implemented frontend patient search by name and age
+- Configured CORS for Angular-to-API communication
+- Integrated Azure Blob Storage for medical records
+
+### Technologies
+
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `Angular` `TypeScript` `LINQ` `REST API` `Azure Blob Storage`
+
+👉 **[View the HomeCare Healthcare Management System](https://github.com/eferrergomez0714/HomeCare-Healthcare-Management-System)**
+
+---
+
+## 📈 Stock Wave Analysis & Prediction Tool
+
+A C#/.NET Windows Forms application developed to analyze stock-price waves and identify potential trends using technical analysis concepts.
+
+### Key Features
+
+- Analyzed stock-price waves using Fibonacci levels and OHLC confirmations
+- Implemented a custom "Beauty" metric to evaluate wave quality
+- Built interactive candlestick charting
+- Added chart annotations and user-driven selection
+- Implemented rubber-banding for selecting chart regions
+- Supported multi-timeframe chart analysis
+
+### Technologies
+
+`C#` `.NET` `Windows Forms`
+
+---
+
+## 🎬 Online Movie Platform
+
+A full-stack web application developed using Python and Flask with PostgreSQL.
+
+### Key Features
+
+- User registration
+- Movie search
+- Transaction functionality
+- Parameterized database queries
+- Role-based access control
+- AJAX-driven dynamic content updates
+
+### Technologies
+
+`Python` `Flask` `PostgreSQL` `SQL` `JavaScript` `AJAX`
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm currently seeking:
+
+- **Backend C#/.NET Developer**
+- **C# Developer**
+- **.NET Developer**
+- **Backend Developer**
+- **Full Stack Developer**
+- **Software Developer**
+
+I'm particularly interested in opportunities involving:
+
+- C#
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- Angular
+- TypeScript
+- Microsoft Azure
+
+I'm looking for a development team where I can contribute to real-world applications while continuing to grow as a software engineer.
+
+---
+
+# 📚 Currently Developing
+
+I'm continuing to strengthen my skills in:
+
+- Backend development with C# and ASP.NET Core
+- Database design and SQL
+- Entity Framework Core
+- RESTful API development
+- Angular and TypeScript
+- Software architecture and design patterns
+- Microsoft Azure
+- Testing and software engineering best practices
+
+---
+
+# 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+University of South Florida
+
+---
+
+# 📜 Certification
+
+**Foundational C# Certification**  
+Microsoft
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with developers, recruiters, hiring managers, and other technology professionals.
+
+📧 **Email:** [ernesto.ferrer.cs@gmail.com](mailto:ernesto.ferrer.cs@gmail.com)
+
+💼 **LinkedIn:** [Ernesto Ferrer](https://www.linkedin.com/in/ernesto-ferrer-445a16407/)
+
+💻 **GitHub:** [eferrergomez0714](https://github.com/eferrergomez0714)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+I'm actively looking for my first professional **software development opportunity** and am excited to continue growing as a developer while contributing to a strong engineering team.
